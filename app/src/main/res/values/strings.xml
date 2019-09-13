@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notes Studying</string>
+    <string name="label_day_of_week">День недели:</string>
+    <string name="button_create_note">Создать заметку</string>
+    <string name="edit_text_hint_title">Заголовок заметки</string>
+    <string name="multiline_edit_hint_description">Описание заметки</string>
+    <string name="toast_all_fields_required">Все поля должны быть заполнены</string>
+    <string-array name="days_of_week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>
